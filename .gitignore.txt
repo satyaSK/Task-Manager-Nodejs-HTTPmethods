@@ -1,0 +1,2 @@
+# dependencies
+Task-Manager/node_modules/
